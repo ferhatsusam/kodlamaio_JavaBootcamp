@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="844cddb6-4c17-4c4b-8467-c7438bbcd528" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../arraysDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arraysDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../findNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../findNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friendlyNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../friendlyNumbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isPrime/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../isPrime/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isPrime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../isPrime/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isPrime/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isPrime/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loopDemo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loopDemo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiDiemensionalArrayDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiDiemensionalArrayDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiDiemensionalArrayDemo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiDiemensionalArrayDemo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perfectNumber/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../perfectNumber/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perfectNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../perfectNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perfectNumber/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../perfectNumber/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vowels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vowels/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QotTYza1QI4kvritvUNtsNaPqW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="844cddb6-4c17-4c4b-8467-c7438bbcd528" name="Changes" comment="" />
+      <created>1686031770968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686031770968</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
